@@ -129,7 +129,7 @@ nav li:focus{
 }
 
 /* Step 3: Write selector/rule property to style all elements when in focus*/
-.container:focus{
+*:focus{
   border: 2px solid black;
 }
 
